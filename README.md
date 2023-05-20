@@ -110,3 +110,5 @@ Python은 정규 표현식을 지원하기 위해 re 모듈을 제공한다. re 
 
 -match.span() : 매치된 문자열의 (시작, 끝)에 해당하는 튜플을 리턴한다.
 
+
+참조 : https://wikidocs.net/4308#re
